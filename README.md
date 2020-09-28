@@ -1,6 +1,5 @@
 # Assessment Solution
 
-[![Build Status](https://travis-ci.org/abybhamra/TechTestApp.svg?branch=master)](https://travis-ci.org/abybhamra/TechTestApp)
 
 ## Explanation and Deliverable
 
@@ -11,7 +10,7 @@ nginx  - [ec2-3-235-19-91.compute-1.amazonaws.com]
 apache - [ec2-54-152-145-137.compute-1.amazonaws.com]
 
 The public URL to the web page via the ELB:
-alb    - assignment-alb-870621497.us-east-1.elb.amazonaws.com
+alb    - [assignment-alb-870621497.us-east-1.elb.amazonaws.com]
 
 Some of the considerations that I have taken for the solution
 
